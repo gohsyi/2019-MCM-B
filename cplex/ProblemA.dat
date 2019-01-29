@@ -1,0 +1,27 @@
+/*********************************************
+ * OPL 12.8.0.0 Data
+ * Author: henry
+ * Creation Date: Jan 25, 2019 at 3:48:57 PM
+ *********************************************/
+
+Items  = {"Drone A", "Drone B", "Drone C", "Drone D",
+          "Drone E", "Drone F", "Drone G",
+          "MED 1",   "MED 2",   "MED 3"};
+Drones = {"Drone A", "Drone B", "Drone C", "Drone D",
+          "Drone E", "Drone F", "Drone G"};
+MEDs   = {"MED 1",   "MED 2",   "MED 3"};
+
+ExteriorLength = 240;
+ExteriorWidth  = 96;
+ExteriorHeight = 102;
+InteriorLength = 231;
+InteriorWidth  = 92;
+InteriorHeight = 94;
+DoorOpenWidth  = 92;
+DoorOpenHeight = 89;
+
+Length = [45, 30, 60, 25, 25, 40, 32, 14,  5, 12];
+Width  = [45, 30, 50, 20, 20, 40, 32,  7,  8,  7];
+Height = [25, 22, 30, 25, 27, 25, 17, 12,  7,  4];
+
+Volume = [50625, 19800, 90000, 12500, 13500, 40000, 17408, 1176, 280, 336];
